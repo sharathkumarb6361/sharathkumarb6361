@@ -11,7 +11,7 @@
 
 
 
-[![](https://img.shields.io/badge/LinkedIn-Sharath_k-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
+[![](https://img.shields.io/badge/LinkedIn-Sharath_Kumar_B-blue)](https://www.linkedin.com/in/sharath-kumar-b-95b472236/)
 [![](https://img.shields.io/badge/Gmail-kumarbsharath01@gmail.com-red)](mailto:kumarbsharath01@gmail.com)
 
 
